@@ -1,5 +1,5 @@
 macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2019 & 2020
-> Download the ![EFI](https://github.com/tentenco/Xiaomi-Mi-Notebook-Pro-Catalina/releases) release here
+> Download the [EFI](https://github.com/tentenco/Xiaomi-Mi-Notebook-Pro-Catalina/releases) release here
 
 ![[Tenten Guide] Xiaomi Mi Notebook Pro MX250 2020 - 10.15 Catalina Hackintosh](https://i.imgur.com/UpNM1h6.png)
 
