@@ -1,4 +1,5 @@
 macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2019 & 2020
+> Download the ![EFI](https://github.com/tentenco/Xiaomi-Mi-Notebook-Pro-Catalina/releases) release here
 
 ![[Tenten Guide] Xiaomi Mi Notebook Pro MX250 2020 - 10.15 Catalina Hackintosh](https://i.imgur.com/UpNM1h6.png)
 
@@ -39,8 +40,7 @@ macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2019 & 2020
   - [Xiaomi NoteBook PRO HACKINTOSH INSTALLATION GUIDE !!!](https://www.youtube.com/watch?v=72sPmkpxCvc)
   - [GUIA HACKINTOSH ESPAÑOL 2020 || Instalación de macOS Catalina Xiaomi Mi Notebook Pro](https://www.youtube.com/watch?v=rfG4sGwhE2g)
 - If the trackpad doesn't work during the installation, please plug a wired mouse or a wireless mouse projector before the installation. After the installation completes, open `Terminal.app` and run `sudo kextcache -i /`. Wait for the process ending and restart the device. Enjoy your trackpad!
-- Complete EFI packs are available in the [releases](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/releases) page.
- - Please don't clone or download the master branch for daily use.
+- Complete EFI packs are available in the [releases](https://github.com/tentenco/Xiaomi-Mi-Notebook-Pro-Catalina/releases) page.
  
 
 ## Benchmark with Apple Macbook Pro
