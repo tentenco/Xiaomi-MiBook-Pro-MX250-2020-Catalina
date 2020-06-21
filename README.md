@@ -43,8 +43,8 @@ macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2019 & 2020
  - Please don't clone or download the master branch for daily use.
  
 
-
-
+## Benchmark with Apple Macbook Pro
+![Xiaomi MiBook Pro Mx250 2020 - CPU Geenbenck with MacBook Pro (13-inch Mid 2019)](https://i.imgur.com/AcnGOTg.png)
 
 ## FAQ
 
