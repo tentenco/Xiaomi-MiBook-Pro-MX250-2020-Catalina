@@ -26,7 +26,7 @@ macOS Catalina & Mojave & High Sierra on XiaoMi NoteBook Pro 2019 & 2020
 | Hard Disk           | Intel 660P 1TB    |
 | Integrated Graphics | Intel UHD Graphics 620                     |
 | Monitor             | BOE NV156FHM-N61 FHD 1920x1080 (15.6 inch) |
-| Sound Card          | Realtek ALC298 (layout-id:30/99)           |
+| Sound Card          | Realtek ALC256M (layout-id:??)           |
 | Wireless Card       | Intel Wireless 8265                        |
 | SD Card Reader      | Realtek RTS5129/RTS5250S                   |
 
